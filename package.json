@@ -1,15 +1,15 @@
 {
-  "name": "PatternLabStarter",
+  "name": "Number Ten Starter",
   "version": "8.0.0",
-  "description": "Pattern Lab Starter",
+  "description": "Pattern Lab Starter Variant",
   "main": "gulpfile.js",
   "author": {
-    "name": "Evan Lovely",
-    "url": "https://github.com/EvanLovely"
+    "name": "Number Ten",
+    "url": "https://github.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:phase2/pattern-lab-starter.git"
+    "url": "git@github.com:Number10Web/pattern-lab-starter.git"
   },
   "keywords": [
     "pattern-lab",
@@ -33,7 +33,7 @@
     "lodash.merge": "^4.3.5",
     "normalize.scss": "^0.1.0",
     "p2-theme-core": "^8.0.0",
-    "singularitygs": "^1.7.0"
+    "bootstrap": "^4.0.0-alpha.2"
   },
   "devDependencies": {
     "lodash.includes": "^4.1.3",

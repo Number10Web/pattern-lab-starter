@@ -1,0 +1,1125 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-bottom: "
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding-bottom: "
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"drupal_",
+				"drupal_add_js"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bord",
+				"border: "
+			],
+			[
+				"hid",
+				"hidden	(commerce-passenger-selector-plane.hbs)"
+			],
+			[
+				"margin",
+				"margin-bottom: "
+			],
+			[
+				"m",
+				"margin: "
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"li",
+				"list-style-image: "
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-image: "
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"font-",
+				"font-family: "
+			],
+			[
+				"marg",
+				"margin-right: "
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"z",
+				"z-index: "
+			],
+			[
+				"loading-sp",
+				"loading-spinner-wrap"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"border-r",
+				"border-radius: "
+			],
+			[
+				"mar",
+				"margin-right: "
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"flex",
+				"flex: "
+			],
+			[
+				"list-s",
+				"list-style-image: "
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text-tr",
+				"text-transform: "
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fon",
+				"font-size: "
+			],
+			[
+				"padd",
+				"padding-left: "
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"list-st",
+				"list-style-image: "
+			],
+			[
+				"absolut",
+				"absolute"
+			],
+			[
+				"pos",
+				"position: "
+			],
+			[
+				"positio",
+				"position: "
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"c",
+				"centered"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"text-sh",
+				"text-shadow: "
+			],
+			[
+				"bor",
+				"border: "
+			],
+			[
+				"whit",
+				"white-space: "
+			],
+			[
+				"hi",
+				"hidden	(_header_interior.scss)"
+			],
+			[
+				"fi",
+				"figure	(_header.scss)"
+			],
+			[
+				"posi",
+				"position: "
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bloc",
+				"blockquote"
+			],
+			[
+				"BA",
+				"background"
+			],
+			[
+				"vertical-a",
+				"vertical-align: "
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"gree",
+				"green-tint"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"border-",
+				"border-bottom: "
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"displ",
+				"display: "
+			],
+			[
+				"font-s",
+				"font-size: "
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"inh",
+				"inherit"
+			],
+			[
+				"web",
+				"webkit"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"bg",
+				"background: "
+			],
+			[
+				"border-radi",
+				"border-radius: "
+			],
+			[
+				"line",
+				"line-height: "
+			],
+			[
+				"font-weight",
+				"font-weight: "
+			],
+			[
+				"width",
+				"width: "
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"float",
+				"float: "
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"vertical",
+				"vertical-align: "
+			],
+			[
+				"clear",
+				"clear: "
+			],
+			[
+				"inlin",
+				"inline_list"
+			],
+			[
+				"nor",
+				"normal"
+			],
+			[
+				"lis",
+				"list-style: "
+			],
+			[
+				"flo",
+				"float:left"
+			],
+			[
+				"lett",
+				"letter-spacing"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"display",
+				"display:block"
+			],
+			[
+				"di",
+				"display:none"
+			],
+			[
+				"cl",
+				"clear:both"
+			],
+			[
+				"font-size",
+				"font-size: "
+			],
+			[
+				"wh_guide",
+				"wh_guide_grey"
+			],
+			[
+				"pi",
+				"position"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"class",
+				"class=\"cc"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"as",
+				"asap"
+			],
+			[
+				"wh",
+				"wh_lightgrey"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"und",
+				"underline"
+			],
+			[
+				"bc",
+				"background:red"
+			],
+			[
+				"ov",
+				"overflow:hidden"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"clea",
+				"clear:both"
+			],
+			[
+				"d",
+				"discount"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"varia",
+				"variables"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"GR",
+				"green	sass_function"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"roboto",
+				"robotoslab"
+			],
+			[
+				"floa",
+				"float:right"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"med",
+				"medgrey"
+			],
+			[
+				"lin",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 726,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Twig",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 369.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jaredstoneberg/Sites/how-to-teach-your-kid-to-read/sites/all/themes/read/template.php",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/pattern-lab/source/_patterns/01-atoms/forms/form-search.md",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/pattern-lab/source/_patterns/02-molecules/blocks/search.md",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/templates/views/views-view-fields--newspage--page.html.twig",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/pattern-lab/source/_patterns/02-molecules/cards/card.twig",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/templates/layout/page.html.twig",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/templates/content/node--article--teaser.html.twig",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/scss/30-global/_html-elements.scss",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/scss/00-config/_fonts.scss",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/templates/content/node--page--teaser.html.twig",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/core/themes/classy/templates/block/block.html.twig",
+		"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/pattern-lab/source/_patterns/01-atoms/forms/form-element-label.twig",
+		"/Users/jaredstoneberg/Sites/plabtest/README.md",
+		"/Users/jaredstoneberg/Sites/world-justice-project/sites/default/settings.php",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/templates/menu--main.html.twig",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/templates/block--system-menu-block--main.html.twig",
+		"/Users/jaredstoneberg/.bash_profile",
+		"/private/var/log/apache2/wjp-error_log",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/default/local.settings.php",
+		"/usr/local/php5-5.6.19-20160310-141555/lib/php.ini-recommended",
+		"/usr/local/php5-5.6.19-20160310-141555/lib/php.ini-development",
+		"/etc/php.ini",
+		"/Users/jaredstoneberg/Sites/world-justice-project/sites/default/development.services.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/sites/default/default.settings.php",
+		"/usr/local/php5/lib/php.ini",
+		"/private/etc/apache2/httpd.conf",
+		"/private/etc/apache2/extra/httpd-default.conf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/apache2/httpd.conf",
+		"/usr/local/etc/php/5.6/php.ini",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/sass/style.scss",
+		"/Users/jaredstoneberg/Sites/world-justice-project/sites/default/settings.local.php",
+		"/private/etc/apache2/extra/httpd-manual.conf",
+		"/private/var/log/apache2/wjp-access_log",
+		"/Users/jaredstoneberg/Sites/world-justice-project/sites/default/services.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/bootstrap/templates/menu/menu--main.html.twig",
+		"/Users/jaredstoneberg/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/templates/region--navigation.html.twig",
+		"/Users/jaredstoneberg/Desktop/services.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/config/schema/wjp.schema.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/wjp.libraries.yml",
+		"/Users/jaredstoneberg/Sites/onviaten/sites/default/settings.php",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/sass/base/_variable-overrides.scss",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/worldjusticeproject/templates/block--system-menu-block--main.html.twig",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/worldjusticeproject/templates/region--navigation.html.twig",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/worldjusticeproject/templates/menu--main.html.twig",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/worldjusticeproject/css/style.css",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/worldjusticeproject/THEMENAME.starterkit.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/worldjusticeproject/config/schema/worldjusticeproject.schema.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/adminimal_theme/adminimal_theme.info.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/wjp.info.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/templates/README.md",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/bootstrap_sass.libraries.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/bootstrap_sass.theme",
+		"/Users/jaredstoneberg/Sites/world-justice-project/index.php",
+		"/Users/jaredstoneberg/Sites/world-justice-project/wjp.sublime-workspace",
+		"/private/etc/hosts",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/bootstrap_sass.info.yml",
+		"/Users/jaredstoneberg/Sites/world-justice-project/.gitignore",
+		"/Users/jaredstoneberg/Sites/world-justice-project/themes/wjp/gulpfile.js",
+		"/usr/local/php5/php.d/50-extension-xdebug.ini",
+		"/Users/jaredstoneberg/Sites/world-justice-project/sites/default/settings.pantheon.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/gulpfile.js",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/config.rb",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/sass/base/_bootstrap.scss",
+		"/Users/jaredstoneberg/Desktop/explainer_V_1.html",
+		"/Users/jaredstoneberg/Sites/ntenonvia/.gitignore",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/sass/base/_variable-overrides.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/00-atoms/01-global/00-colors.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/css/style.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/css/styleguide-specific.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/00-atoms/06-buttons/00-buttons.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/includes/module.inc",
+		"/Users/jaredstoneberg/Sites/paco/sites/default/settings.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/config/config.ini",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/00-atoms/00-meta/_00-head.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/public/styleguide/css/styleguide-specific.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/core/styleguide/css/styleguide-specific.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/sass/layout/_layout.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/public/css/styleguide-specific.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/sass/components/_buttons.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/01-molecules/06-components/03-bs-accordion.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/00-atoms/00-meta/_01-foot.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/public/css/style.css",
+		"/Users/jaredstoneberg/Downloads/patternlab-php-bootstrap-3-master/src/config/README",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/core/source/css/style.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/01-molecules/06-components/03-accordion.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/README.md",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/public/styleguide/js/vendor/jquery.js",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/core/templates/index.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/css/style.css",
+		"/Users/jaredstoneberg/Downloads/patternlab-php-bootstrap-3-master/src/core/templates/index.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap/patternlab/source/_patterns/00-atoms/07-tables/00-table.mustache",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/patternlab/config/config.ini",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/bootstrap_sass_starterkit/Gemfile",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/bootstrap_sass_starterkit/gruntfile.js",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/bootstrap_sass_starterkit/sass/layout/_layout.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/bootstrap_sass_starterkit/gulpfile.js",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/bootstrap/templates/system/page.tpl.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/bootstrap_sass_starterkit/sass/style.scss",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/default/onvia_settings.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/default/local.settings.php",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/default/settings.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/default/default.settings.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/default/settings.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia/template.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia/templates/page.tpl.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/modules/custom/demandstar/demandstar.module",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/modules/custom/email_list/elist.module",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/modules/custom/glue/glue.module",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia/js/FADES-onvia-dropmenu.js",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia/js/onvia-dropmenu.js",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia/css/drop-menus.css",
+		"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia/templates/_subsite_access.php",
+		"/Users/jaredstoneberg/Sites/ntenonvia/LICENSE.txt",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass/components/content-search-result/_content-search-result.scss",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass/components/content-search-result/content-search-result.hbs",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass/components/content/_content.scss",
+		"/Users/jaredstoneberg/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass/components/header/_header.scss",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass/layouts/_layout_page.scss",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/js/slickslide.js",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/templates/field--field-header-image--front.tpl.php",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/templates/html.tpl.php",
+		"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass/components/commerce-sailpicker/_commerce-sailpicker.scss"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/pattern-lab-starter",
+			"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/pattern-lab-test",
+			"/Users/jaredstoneberg/Sites/drupal-lab/web/modules",
+			"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing/scss",
+			"/Users/jaredstoneberg/Sites/drupal-lab/web/themes/dashing",
+			"",
+			"/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap",
+			"/Users/jaredstoneberg/Sites/ntenonvia,/Users/jaredstoneberg/Sites/ntenonvia/sites/all/themes/onvia_bootstrap",
+			"/Users/jaredstoneberg/Sites/ntenonvia",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/modules",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/modules",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/templates/panels-layouts/page_commerce",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/modules",
+			"modulesthemes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"<open folders>",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs/sass",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris/sites/all/themes/sjs",
+			"/Users/jaredstoneberg/Sites/san-juan-safaris",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/modules/features",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/modules",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/themes",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/themes/elti",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/themes/elti",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/themes/elti",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/",
+			"/Users/jaredstoneberg/Sites/yale_elti/sites/all/themes/elti",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/themes/sjivb/sass",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/themes/sjivb/sass",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/themes",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/modules/custom/sjivb_theme",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/modules/custom",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/modules",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/themes/sjivb/",
+			"/Users/jaredstoneberg/Sites/sjivb-v2/sites/all/themes/sjivb/sass",
+			"<open files>",
+			"<open folders>",
+			"/Users/jaredstoneberg/Sites/elti/sites/all/themes/elti",
+			"<open files>,/Users/jaredstoneberg/Sites/elti/sites/all",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/common-craft/sites/all/themes/white",
+			"<open folders>",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/modules/cc_site_wide",
+			"/Users/jaredstoneberg/Sites/commoncraft",
+			"<open files>",
+			"<open files>,/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"<open files>,/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"<open files>",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"/Users/jaredstoneberg/Sites/ccguide/sites/all/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials/design",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials/design",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/modules/cc_single_cutout",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/modules",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/modules/cc_single_cutout",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials/design",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/orange",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/layouts",
+			"/Users/jaredstoneberg/Sites/commoncraft/sites/all/themes/white/sass/partials/design"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"col",
+			"grid",
+			"p2-theme-core",
+			"View Patternlab",
+			"card-img-top",
+			"block.html.twig",
+			"memory",
+			"php",
+			"php.d",
+			"max_",
+			"max",
+			"memory_limit",
+			"memory",
+			"memory_limit",
+			"256",
+			"memory_limit",
+			"256",
+			"opcac",
+			"memory",
+			"apc",
+			"ap",
+			"apc.shm_size",
+			"world",
+			"red",
+			"xdebug",
+			"memory",
+			"debug",
+			"xdebug",
+			"world",
+			"memory",
+			"world",
+			"work",
+			"btn-default",
+			"carousel",
+			"sg-colors",
+			"sg-colora",
+			"color",
+			"button",
+			"ntenonvia",
+			"nteno",
+			"onvia",
+			"fadeOne",
+			"onvia",
+			"slicknav_btn",
+			"san",
+			"iframe_api",
+			".slicknav_menu:before",
+			"slicknav",
+			"1940",
+			"#sjs-calendar-wrapper",
+			"&#9656;",
+			"▸",
+			"25B8",
+			"sjs_calendar",
+			"font",
+			"@extend",
+			"e6e6e6",
+			"ui-bg",
+			"drupal_add_js",
+			"#commerce-checkout-form-checkout",
+			"#commerce-checkout-form-checkout .form-item input",
+			"padding-right: 13px;",
+			"paragraph_and_image__caption",
+			"messages--ok-color",
+			"roboto",
+			"font-size",
+			"extend",
+			"price_per",
+			"WhalePlaneAdult",
+			"add-to-cart-WhalePlaneAdult",
+			"&#x25c0;",
+			"25c0",
+			"&#x25b6;\n&#x25b6;\n&#x25c0;x25c0",
+			"&#x25b6;\n&#x25b6;\n&#x25c0;\n&#x25c0;",
+			"▶",
+			"san",
+			"#sailings-wrapper-form",
+			"yale",
+			"elti",
+			"button",
+			"close",
+			"breakpoints",
+			"nth",
+			"pink",
+			");\n",
+			"extend",
+			"nth",
+			"blog",
+			"field-blog-tags",
+			"blog__blog_tags",
+			"<div class=\"fs0 bshadow0 clearfix hidden-true\">\n  <span class=\"unit pvs fgc1\">liga: </span>\n  <input type=\"text\" readonly value=\"\" class=\"liga unitRight\" />\n</div>",
+			"<div class=\"fs0 bshadow0 clearfix hidden-true\">\n  <span class=\"unit pvs fgc1\">liga: </span>\n  <input type=\"text\" readonly value=\"\" class=\"liga unitRight\" />\n</div>\n",
+			"ico",
+			"watch",
+			"page_1col",
+			"sjs",
+			"extend",
+			"modifier",
+			"modifier_class",
+			"builder-sailing-times",
+			"sailings-wrapper-form",
+			"add-to-cart-product-label",
+			"=HYPERLINK(\"#\",\" \")=",
+			"\"/",
+			" =",
+			" =HYPERLINK(\"#\",\" \")",
+			".blog__meta .layout-2col__col-2",
+			"content=",
+			"nav",
+			"lark",
+			"layout-3col",
+			"teal",
+			"nth",
+			"update",
+			"<?",
+			"front",
+			"color",
+			"text",
+			"4",
+			"nav",
+			"slick",
+			"mobile",
+			"next",
+			"overlay",
+			"sjs-calendar-wrapper",
+			"$sjs-orange",
+			"align"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"page_commerce",
+			"=",
+			"\"http://number:ten@test-san-juan-safaris.no10web.com/",
+			"=http://number:ten@test-san-juan-safaris.no10web.com/",
+			"=",
+			"",
+			"../styleguide/placeholder_images/whale_4_3.jpg",
+			"paragraph_gallery_item",
+			"",
+			"<p style=\"padding-top: 0;\" >Donate",
+			"<h2 style=\"padding-bottom: 0;\" >",
+			"style=\"overflow: hidden; margin-top: 20px;\"",
+			"width: 54%",
+			"/files/u1/donate147x47.jpg",
+			"margin-right: 10px",
+			"width: 250px; height: 100px;",
+			"'right'",
+			"..",
+			"white"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bower.json",
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 420.0,
+	"status_bar_visible": true
+}

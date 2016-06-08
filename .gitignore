@@ -16,5 +16,6 @@ node_modules
 #IDE plugins
 .idea
 atlassian-ide-plugin.xml
+.sublime-*
 
 source/styleguide/css
